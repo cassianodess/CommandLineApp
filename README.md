@@ -9,7 +9,7 @@
 
 ## How to use?
 ``` go run . [<servers> or <ip>] --host <web-site-address>```
- ##Example
+ ## Examples
  1. ```go run . servers --host devbook.com.br```
  1.  ```go run . ip --host devbook.com.br``` 
 
